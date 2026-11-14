@@ -1,6 +1,6 @@
 cask "reach" do
-  version "0.5.0"
-  sha256 "285381c1dda392d45ef3e9226e67abca20cc01511652af5e0a4368ba73cb258a"
+  version "0.5.1"
+  sha256 "ff0e9cfe0ca3dcd68978c280a711ec6e8c52d3cf7a6cde1141c094f5a217bc3d"
 
   url "https://github.com/ahuili/reach/releases/download/v#{version}/Reach-#{version}.zip"
   name "Reach"

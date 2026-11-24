@@ -1,6 +1,6 @@
 cask "weft" do
-  version "0.6.8"
-  sha256 "e1fdf01be82bbf85fbbde146c8ad0c9f528b1ad6aaeac0df208bbc955e19b58d"
+  version "0.7.0"
+  sha256 "dc77cfd81a6585996b919071421a5173af3beb5e8dcac3bd38e1100be6dfa114"
 
   url "https://github.com/ahuili/weft/releases/download/v#{version}/Weft-#{version}.zip"
   name "Weft"
